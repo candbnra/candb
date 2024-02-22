@@ -56,7 +56,7 @@ public class Employee {
 	public String getLastname() {
 		return lastname;
 	}
-	public void setLastName(String lastname) {
+	public void setLastname(String lastname) {
 		this.lastname = lastname;
 	}
 	public String getEmailId() {

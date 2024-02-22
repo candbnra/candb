@@ -1,4 +1,3 @@
-
 import { Component } from '@angular/core';
 import { Employee } from '../employee';
 import { CommonModule } from '@angular/common';
